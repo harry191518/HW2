@@ -1,3 +1,11 @@
+/*
+
+RLai(Yi-Hao Lai)
+IKDDhw2.java
+for testing postgreSQL
+input string and output a table sort by user_id
+
+*/
 	import java.sql.Connection;
 	import java.sql.DriverManager;
 	import java.sql.ResultSet;
@@ -5,7 +13,6 @@
 	import javax.swing.*;
 	import java.awt.*;
 	import java.util.Scanner;
-	//import java.io.*;
 
 	public class IKDDhw2 {
 	   public static void main( String args[] )
